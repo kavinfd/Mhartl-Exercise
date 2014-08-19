@@ -2,9 +2,6 @@
 asdfasdf
 
 
-asdf
-asdf
-
 l contains the "smart" domain objects (such as Account, Product, Person,
 Post) that holds all the business logic and knows how to persist themselves to
 a database. The controller handles the incoming requests (such as Save New Account,
